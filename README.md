@@ -6,14 +6,6 @@ This repository contains the files required to run the image processing examples
   <button onclick="copyCode()">Copy</button>
 </div>
 
-<script>
-  function copyCode() {
-    var copyText = document.getElementById("codeBlock").innerText;
-    navigator.clipboard.writeText(copyText).then(() => {
-      alert("Copied to clipboard!");
-    });
-  }
-</script>
 
 ### Installation of prerequisites 2024 
 <ul>
