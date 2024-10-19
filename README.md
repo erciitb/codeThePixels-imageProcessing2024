@@ -3,7 +3,7 @@ This repository contains the files required to run the image processing examples
 
 <div>
   <pre><code id="codeBlock">echo "Hello, World!"</code></pre>
-  <button onclick="copyCode()">Copy</button>
+  <button onclick="copyCode()"></button>
 </div>
 
 
