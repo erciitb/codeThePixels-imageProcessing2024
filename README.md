@@ -2,7 +2,7 @@
 This repository contains the files required to run the image processing examples and project. Go through the readme file, please.
 
 
-### Installation of prerequisites 2024 
+### Installation of Prerequisites 2024 
 <ul>
   <li>Install Visual Studio Code from the Microsoft Store. (Store > Search for "VS Code" > Get)</li>
   <li>Install Python from the python installation file (https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe). As soon as you open the installation window, on the first page, check the option that says "Add python.exe to PATH". DO NOT MISS THIS STEP. Then click install now and finish the installation with all the default settings.</li>
