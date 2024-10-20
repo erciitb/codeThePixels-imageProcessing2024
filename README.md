@@ -14,7 +14,7 @@ This repository contains the files required to run the image processing examples
  If it shows your version of Python, your installation is done. </li>
 <li>In the same window, now type 
   <div>
-  <pre><code id="codeBlock">pip install tensorflow opencv-python numpy cvzone mediapipe</code></pre>
+  <pre><code id="codeBlock">pip install tensorflow opencv-python numpy cvzone mediapipe matplotlib</code></pre>
   <button onclick="copyCode()"></button>
 </div>and wait for it to install fully.</li>
 <li> You are now good to go. download the files and unzip the folder. Directly open the folder and not the individual files in Visual Studio Code.</li>
@@ -38,7 +38,7 @@ This repository contains the files required to run the image processing examples
   <li>
     Once pyhton and pip are installed , you can install the requiered libraiers for this event.
     <div>
-    <pre><code id="codeBlock">pip install tensorflow opencv-python numpy cvzone mediapipe </code></pre>
+    <pre><code id="codeBlock">pip install tensorflow opencv-python numpy cvzone mediapipe matplotlib </code></pre>
     <button onclick="copyCode()"></button>
     </div>
   <li>Installing Visual Studio Code</li>
@@ -62,7 +62,7 @@ This repository contains the files required to run the image processing examples
   <li>
     For installing the requiered libraries for this workshop , open up the terminal and put the following code in it.
     <div>
-    <pre><code id="codeBlock">pip install tensorflow opencv-python numpy cvzone mediapipe </code></pre>
+    <pre><code id="codeBlock">pip install tensorflow opencv-python numpy cvzone mediapipe matplotlib </code></pre>
     <button onclick="copyCode()"></button>
     </div>
   </li>
