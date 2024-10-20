@@ -38,7 +38,7 @@ This repository contains the files required to run the image processing examples
   <li>
     Once pyhton and pip are installed , you can install the requiered libraiers for this event.
     <div>
-    <pre><code id="codeBlock">pip install tensorflow opencv-python numpy cvzone</code></pre>
+    <pre><code id="codeBlock">pip install tensorflow opencv-python numpy cvzone mediapipe</code></pre>
     <button onclick="copyCode()"></button>
     </div>
   <li>Installing Visual Studio Code</li>
