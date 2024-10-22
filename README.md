@@ -62,7 +62,7 @@ This repository contains the files required to run the image processing examples
   <li>
     For installing the requiered libraries for this workshop , open up the terminal and put the following code in it.
     <div>
-    <pre><code id="codeBlock">pip install tensorflow opencv-python numpy cvzone mediapipe matplotlib </code></pre>
+    <pre><code id="codeBlock">pip3 install tensorflow opencv-python numpy cvzone mediapipe matplotlib </code></pre>
     <button onclick="copyCode()"></button>
     </div>
   </li>
